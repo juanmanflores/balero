@@ -73,7 +73,7 @@ body{
   /*     width: 800px; */
   border-radius: 30px;
     margin: 20px;
-    margin-left: 10;
+    margin-left: 50px;
     margin-top: 25px;
   }
   .hero-text {
@@ -93,14 +93,14 @@ body{
     position: relative;
   }
 /* This is the class for the div that contains the map........ */
-.container-box{
+.container-map iframe{
   /* width: 63%;
-  height: 1000px;
+  height: 1000px; */
   display: block;
-  margin: auto; */
-  padding-left: 200px; 
+  margin: auto;
+  /* padding-left: 200px; 
   padding-right: 50px; 
-  padding-top: 90px;
+  padding-top: 90px; */
 }
 
   footer{
